@@ -4,5 +4,8 @@
 
 ####To run the Twitter app
 
-http
+```http
   GET /api/items/${id}
+```
+
+
