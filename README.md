@@ -4,9 +4,5 @@
 
 ####To run the Twitter app
 
-```http
-   cd 
-  npm install
-  npm start
-```
-
+http
+  GET /api/items/${id}
